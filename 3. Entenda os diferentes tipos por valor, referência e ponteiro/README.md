@@ -2,6 +2,10 @@
   Entenda os diferentes tipos por valor, referência e ponteiro
 </h1>
 
+<h3 align="center">Valor, referência e ponteiro</h3>
+
+<hr>
+
 <h4 align="left">Objetivos da Aula</h4>
 
 <ol>
