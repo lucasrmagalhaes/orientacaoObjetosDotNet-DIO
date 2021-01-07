@@ -2,8 +2,6 @@
   Entenda os diferentes tipos por valor, referência e ponteiro
 </h1>
 
-<h3 align="center">Valor, referência e ponteiro</h3>
-
 <hr>
 
 <h4 align="left">Objetivos da Aula</h4>
@@ -88,11 +86,11 @@
         <th>Implementação</th>
     </tr>
     <tr>
-        <td><strong>double</strong></td>
+        <td>double</td>
         <td>Ponto flutuante binário IEEE de 8 bytes, 15 dígitos decimais de precisão.</td>
     </tr>
     <tr>
-        <td><strong>float</strong></td>
+        <td>float</td>
         <td>Ponto flutuante binário LEEE de 4 bytes, 7 dígitos decimais de precisão.</td>
     </tr>
 </table>
@@ -109,7 +107,7 @@
         <th>Implementação</th>
     </tr>
     <tr>
-        <td><strong>char</strong></td>
+        <td>char</td>
         <td>Um único caractere Unicode de 16 bits. Não é compatível com inteiro.</td>
     </tr>
 </table>
