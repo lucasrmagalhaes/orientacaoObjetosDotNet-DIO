@@ -52,7 +52,7 @@
 <table>
     <tr>
         <th>Modificador</th>
-        <td>Significado</td>
+        <th>Significado</th>
     </tr>
     <tr>
         <th>public</th>
