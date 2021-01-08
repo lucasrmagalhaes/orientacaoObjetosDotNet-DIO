@@ -36,38 +36,38 @@
 <details>
     <summary>Certifique seu conhecimento</summary>
 
-<h1 align="left">Certifique seu conhecimento</h1>
+<h1 align="center">Certifique seu conhecimento</h1>
 
 <p align="left">
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>O que é Programação Orientada a Objetos (POO)?<strong><br>
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O POO é baseado no conceito de “objetos”, que podem conter dados na forma de campos (atributos) e códigos, na forma de procedimentos (métodos).
-</p>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>O que é Programação Orientada a Objetos (POO)?</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O POO é baseado no conceito de “objetos”, que podem conter dados na forma de campos (atributos) e códigos, na forma de procedimentos (métodos).<br>
   
-**Quais as 3 estruturas básicas presentes na Programação Estruturada?**
-- Sequência, Seleção e Repetição.
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Quais as 3 estruturas básicas presentes na Programação Estruturada?</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sequência, Seleção e Repetição.<br>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Quais as principais características da Programação Estruturada?</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A Programação estruturada tem como principal característica sua interpretação linha por linha, em pequenos trechos de código, podendo eles não estar em uma ordem específica.<br>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>O que são classes em POO?</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Pode ser considerada como se fosse um molde para o objeto, contendo dentro de si as principais informações para a sua criação.<br>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>O que são objetos em POO?</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Tudo aquilo que em geral possui atributos, comportamentos e um estado.<br>
 
-**Quais as principais características da Programação Estruturada?**
-- A Programação estruturada tem como principal característica sua interpretação linha por linha, em pequenos trechos de código, podendo eles não estar em uma ordem específica.
-
-**O que são classes em POO?**
-- Pode ser considerada como se fosse um molde para o objeto, contendo dentro de si as principais informações para a sua criação.
-
-**O que são objetos em POO?**
-- Tudo aquilo que em geral possui atributos, comportamentos e um estado.
-
-**Quais são os 4 Pilares da POO?**
-- Abstração, Encapsulamento, Herança e Polimorfismo.
-
-**O que a visibilidade define em POO?**
-- Define quem pode alterar cada dado dos trechos de código em três principais níveis: Pública, Privada e Protegida.
-
-**O que são paradigmas da programação?**
-- São modos diferentes de montar a estrutura e execução de um código. Um paradigma fornece e determina a visão que o programador possui sobre a estruturação e execução do programa.
-
-**Quais são os dois tipos por valor que aceitam valores decimais (com vírgula) em .NET?**
-- double e float.
-
-**Quais os dois paradigmas mais conhecidos?**
-- Programação Estruturada (PE) e Programação Orientada a Objetos (POO).
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Quais são os 4 Pilares da POO?</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Abstração, Encapsulamento, Herança e Polimorfismo.<br>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>O que a visibilidade define em POO?</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Define quem pode alterar cada dado dos trechos de código em três principais níveis: Pública, Privada e Protegida.<br>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>O que são paradigmas da programação?</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;São modos diferentes de montar a estrutura e execução de um código. Um paradigma fornece e determina a visão que o programador possui sobre a estruturação e execução do programa.<br>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Quais são os dois tipos por valor que aceitam valores decimais (com vírgula) em .NET?</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;double e float.<br>
+  
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>Quais os dois paradigmas mais conhecidos?</strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Programação Estruturada (PE) e Programação Orientada a Objetos (POO).
+</p>
 
 </details>
