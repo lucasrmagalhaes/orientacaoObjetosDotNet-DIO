@@ -33,6 +33,8 @@
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Para que o mecanismo dos eventos funcione, é necessário usar um tipo de estrutura chamado <strong>Delegate</strong>, uma variável que guarda o endereço de uma função. Assim, quando o evento é disparado, essa variável chama a função associada a ela.
 </p>
 
+<hr>
+
 <details>
     <summary>Certifique seu conhecimento</summary>
 
