@@ -36,9 +36,13 @@
 <details>
     <summary>Certifique seu conhecimento</summary>
 
-**O que é Programação Orientada a Objetos (POO)?**
-- O POO é baseado no conceito de “objetos”, que podem conter dados na forma de campos (atributos) e códigos, na forma de procedimentos (métodos).
+<h1 align="left">Certifique seu conhecimento</h1>
 
+<p align="left">
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<strong>O que é Programação Orientada a Objetos (POO)?<strong><br>
+  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O POO é baseado no conceito de “objetos”, que podem conter dados na forma de campos (atributos) e códigos, na forma de procedimentos (métodos).
+</p>
+  
 **Quais as 3 estruturas básicas presentes na Programação Estruturada?**
 - Sequência, Seleção e Repetição.
 
